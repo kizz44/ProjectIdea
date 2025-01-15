@@ -1,2 +1,3 @@
-# ProjectIdea
-thoughts on the project
+# Идея проекта
+
+Пока думаю ...🤔
