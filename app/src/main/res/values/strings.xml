@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Списки покупок</string>
+    <string name="version_format">Версия: %1$s (%2$d)</string>
+    
+    <!-- Общие -->
+    <string name="add">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="share_via">Поделиться через</string>
+    <string name="share_app_text">Попробуйте приложение \"Списки покупок\" - удобный способ создавать и делиться списками покупок!</string>
+    
+    <!-- Списки -->
+    <string name="list_name">Название списка</string>
+    <string name="new_list">Новый список</string>
+    <string name="rename_list">Переименовать список</string>
+    <string name="delete_list">Удалить список</string>
+    <string name="delete_list_confirmation">Вы уверены, что хотите удалить список "%1$s"?</string>
+    <string name="list_options">Настройки списка</string>
+    
+    <!-- Товары -->
+    <string name="item_name">Название товара</string>
+    <string name="quantity">Количество</string>
+    <string name="note">Примечание</string>
+    <string name="add_item">Добавить товар</string>
+    <string name="edit_item">Редактировать товар</string>
+    <string name="delete_item">Удалить товар</string>
+    <string name="delete_item_confirmation">Вы уверены, что хотите удалить товар \'%1$s\'?</string>
+    <string name="share_list">Поделиться списком</string>
+    <string name="add_new_list">Добавить новый список</string>
+    <string name="home">Главная</string>
+    <string name="shopping_lists">Списки покупок</string>
+    <string name="settings">Настройки</string>
+    <string name="shopping_list">Список покупок</string>
+    <string name="error_sharing_list">Ошибка при отправке списка</string>
+</resources>
