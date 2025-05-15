@@ -5,7 +5,7 @@ import androidx.room.*
 
 @Dao
 interface ShoppingDao {
-    // Shopping Lists operations
+
     @Insert
     suspend fun insertList(shoppingList: ShoppingList)
 
@@ -18,7 +18,6 @@ interface ShoppingDao {
     @Query("SELECT * FROM shopping_lists ORDER BY name ASC")
     fun getAllLists(): LiveData<List<ShoppingList>>
 
-    // Shopping Items operations
     @Insert
     suspend fun insertItem(shoppingItem: ShoppingItem)
 
